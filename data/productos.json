@@ -1,0 +1,23 @@
+[
+  {},
+  {
+    "nombre": "Tortilla",
+    "descripcion": "Papa y huevo",
+    "código": "B0450",
+    "foto": "www.supermercado.com.ar/pizza",
+    "precio": 1500,
+    "stock": 66,
+    "id": 1,
+    "timestamp": "26/2/2022 12:13:31"
+  },
+  {
+    "nombre": "Pizza",
+    "descripcion": "Mozzarella",
+    "código": "B0451",
+    "foto": "www.supermercado.com.ar/pizza",
+    "precio": 1000,
+    "stock": 66,
+    "id": 2,
+    "timestamp": "26/2/2022 12:14:49"
+  }
+]
